@@ -14,6 +14,19 @@ The project also includes a simple Streamlit dashboard where you can enter a rev
 - Displays basic information about the dataset and model accuracy.
 - Provides an interactive dashboard for testing new reviews.
 
+## 🚀 Live Dashboard
+
+Try the application here:
+
+[**Open Live Sentiment Analysis Dashboard**](https://sentiment-analysis-customer-feedback-pqctsrvkmxexafyyadce2g.streamlit.app)
+
+Explore customer feedback and view sentiment analysis results through the interactive dashboard.
+
+---
+
+
+  
+
 ## Technologies I used
 
 - **Python** — to build the project
